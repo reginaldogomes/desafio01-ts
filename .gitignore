@@ -1,0 +1,20 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore TypeScript build outputs
+dist/
+build/
+
+# Ignore TypeScript temporary files
+*.tsbuildinfo
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore IDE specific files
+.vscode/
+.idea/
