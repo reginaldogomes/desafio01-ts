@@ -68,7 +68,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 
 5. Execute o arquivo `app.ts`:
    ```bash
-   node src/app.js
+   node src/app.ts
    ```
 
 ## 📝 Melhorias Futuras
