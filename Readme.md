@@ -45,13 +45,13 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/projeto-conta-bancaria.git
+   git clone https://github.com/reginaldogomes/desafio01-ts.git
    ```
 
 2. Acesse a pasta do projeto:
 
    ```bash
-   cd projeto-conta-bancaria
+   cd desafio01-ts
    ```
 
 3. Instale as dependências:
@@ -66,7 +66,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
    tsc
    ```
 
-5. Execute o arquivo `app.js`:
+5. Execute o arquivo `app.ts`:
    ```bash
    node src/app.js
    ```
@@ -94,7 +94,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## ✒️ Autor
 
-Seu Nome - GitHub | LinkedIn
+Reginaldo Gomes - LinkedIn: (https://www.linkedin.com/in/reginaldogomesalves/)
 
 ## 🙌 Agradecimentos
 
